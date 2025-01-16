@@ -12,7 +12,8 @@
 ### 🚀 Skills & Tools
 - **Programming Languages:** Python, C#, C, HTML, CSS
 - **Specializations:** Cyber Security, Reverse Engineering, Malware Analysis
-- **Tools:** [Add relevant tools, e.g., Wireshark, IDA Pro, etc.]
+- **Tools:** x64dbg, x32dbg, Dnspy, Gobuster, Nmap
+- **OS:** Windows, Kali Linux
 
 ---
 
